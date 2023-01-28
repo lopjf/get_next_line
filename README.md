@@ -1,2 +1,5 @@
 # get_next_line
-Programming a function that returns a line read from a file descriptor.
+get_next_line (42cursus) 2022
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
